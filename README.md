@@ -1,6 +1,6 @@
 # car-race
-a simple and intuitive car racing game
-## Running Tests
+## a simple and intuitive car racing game
+### Running Tests
 
 To run tests, run the following command
 
