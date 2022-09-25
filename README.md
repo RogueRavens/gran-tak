@@ -4,8 +4,12 @@
 
 To run tests, run the following command
 
-```bash
-  npm run test car-race
+```
+   Git clone car-race
+   mkdir build 
+   Cd build
+   Conan install car-race
+   Cmake --build
 ```
 
   
