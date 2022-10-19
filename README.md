@@ -6,9 +6,6 @@ To run tests, run the following command
 
 ```
    Git clone car-race
-   mkdir build 
-   Cd build
-   Conan install car-race
    Cmake --build
 ```
 
